@@ -1,0 +1,59 @@
+
+header {
+
+    background:url(https://i.imgur.com/RMt9439.jpeg);
+    text-align: center;
+}
+
+body {
+    background-color: aliceblue;
+    color: rgb(65, 65, 65);
+    text-align: center;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+h1{
+    text-align: center;
+}
+
+#navigation {
+    line-height: 3;
+    text-align: center;
+    
+}
+
+#nav {
+    display: inline;
+    padding: 0px 10px 0px 10px;
+
+}
+
+#photo {
+    margin: 40px 0px 0px 0px;
+    width: 100x;
+    height: 100px;
+}
+
+#headshot {
+    margin: 20px 0px 0px 0px;
+    width: 100x;
+    height: 100px;
+}
+#resumepdf {
+    width: 500px;
+    height: 650px;
+}
+
+#contactin {
+    width: 300px;
+
+}
+
+#mess {
+    width: 300px;
+
+}
+
+ol {
+    list-style-position: inside;
+}
